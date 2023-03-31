@@ -1,5 +1,5 @@
 # AeroSpy
-"AeroSpy: A Comprehensive Wi-Fi Network Discovery and Analysis Tool"
+"AeroSpy: A Comprehensive Wi-Fi Network Discovery and Analysis GUI Tool "
 
 ![AeroSpy](https://user-images.githubusercontent.com/63418316/229106649-f2b11490-4f2b-471d-bcf0-c86488663d5a.jpg)
 
