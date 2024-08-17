@@ -1,25 +1,40 @@
+
 # AeroSpy
-"AeroSpy: A Comprehensive Wi-Fi Network Discovery and Analysis GUI Tool "
+
+AeroSpy is a powerful Wi-Fi scanning tool with an intuitive GUI for easy discovery and analysis of nearby wireless networks. Key features include:
+
+- Real-time Scanning: Continuously updates the network list for the most accurate information.
+- Detailed Network Info: Displays BSSID, SSID, signal strength, channel, and encryption type.
+- Channel Hopping: Cycles through Wi-Fi channels to detect all available networks.
+- User-Friendly Interface: Accessible to users of all levels, with a clear display of network data.
+
+New Feature:
+
+- De-authentication: De-authenticate any selected networks directly from the interface.
 
 ![AeroSpy](https://user-images.githubusercontent.com/63418316/229106649-f2b11490-4f2b-471d-bcf0-c86488663d5a.jpg)
 
 
-AeroSpy is an intuitive and feature-rich Wi-Fi scanning application that provides users with a graphical user interface (GUI) to effortlessly discover and analyze available wireless networks in their vicinity. By leveraging the power of Python and Scapy, AeroSpy streamlines the process of capturing and interpreting wireless network data, empowering users to make informed decisions about network connectivity.
+## Deployment
 
-Key features of AeroSpy include:
+To deploy this project run:
 
-1. Real-time network scanning: AeroSpy continuously scans the surrounding airwaves, updating the network list in real-time to ensure users have the most accurate and up-to-date information on nearby Wi-Fi networks.
+```bash
+  git clone https://github.com/A1a0k1a0s1h/AeroSpy.git
+  cd AeroSpy
+```
+Install all the required repositories:
 
-2. Detailed network information: AeroSpy provides comprehensive data on each detected network, including BSSID, SSID, signal strength (dBm), channel, and encryption type, allowing users to make informed decisions about which networks to connect to.
+```bash
+  pip install -r requirements.txt
+```
+Run the tool:
 
-3. Dynamic channel hopping: AeroSpy intelligently cycles through the entire range of Wi-Fi channels to maximize the chances of detecting all available networks, regardless of the channel they are operating on.
+```bash
+  python AeroSpy.py
+```
+## Screenshots
 
-4. User-friendly interface: With its easy-to-navigate GUI, AeroSpy is accessible to users of all experience levels. The clear and organized display of network information makes it easy to identify and analyze nearby Wi-Fi networks.
-
-5. Customizable scanning: AeroSpy allows users to start and stop the scanning process at their convenience, providing full control over the duration and scope of the network discovery process.
-
-6. Whether you are a network administrator troubleshooting connectivity issues, a security professional assessing network vulnerabilities, or an everyday user seeking the best Wi-Fi connection, AeroSpy offers a powerful and user-friendly solution for Wi-Fi network discovery and analysis.
-
-![AeroSpytool](https://user-images.githubusercontent.com/63418316/229114898-d5b79a56-3287-41f9-8275-c2502a3c41f4.jpg)
+![aerospy](https://github.com/user-attachments/assets/c7c2b85f-19ad-45e7-8612-6916111d4820)
 
 
