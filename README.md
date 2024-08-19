@@ -12,6 +12,12 @@ New Feature:
 
 - De-authentication: De-authenticate any selected networks directly from the interface.
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c91c68349c3b4f6c3d00e6046bfd6785787b757618934d11ff2c585275d9a1fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61696e7461696e65642533462d5965732d393663343066" alt="Maintained">
+  <img src="https://img.shields.io/badge/Developed%20on-Kali%20Linux-blueviolet" alt="Developed on Kali">
+  <img src="https://img.shields.io/badge/Python-v3.8+-blue" alt="Python">
+</p>
+
 ![AeroSpy](https://user-images.githubusercontent.com/63418316/229106649-f2b11490-4f2b-471d-bcf0-c86488663d5a.jpg)
 
 
