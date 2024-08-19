@@ -21,7 +21,7 @@ New Feature:
 ![AeroSpy](https://user-images.githubusercontent.com/63418316/229106649-f2b11490-4f2b-471d-bcf0-c86488663d5a.jpg)
 
 
-## Deployment
+## Installation
 
 To deploy this project run:
 
